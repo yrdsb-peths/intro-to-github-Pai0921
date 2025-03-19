@@ -1,4 +1,4 @@
-Pai
+pai
 Dog
 # Welcome to our GitHub classroom!
 ### You are looking at a README file
