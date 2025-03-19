@@ -1,5 +1,5 @@
 Pai
-Cat
+Dog
 # Welcome to our GitHub classroom!
 ### You are looking at a README file
 The Contents of a readme file are written using [Markdown](https://www.markdownguide.org/basic-syntax/). You view the nicely formatted file when it is displayed on this Github page.
